@@ -2,7 +2,7 @@
 {
 
 	"HTMLFileName":"index.html",
-	"pref__general__AutoKeyframeProperties":"true",
+	"pref__general__AutoKeyframeProperties":"false",
 	"ModelData":"{\
 \"stage\": {\
    \"timelines\": {\
@@ -19,8 +19,8 @@
    }}\
 }",
 	"pref__general__FilterNonAnimatedElements":"false",
-	"viewStartMs":"-35.430509379005",
-	"pref__general__AutoKeyframePropertiesArmed":"true",
+	"viewStartMs":"-101.6137085185",
+	"pref__general__AutoKeyframePropertiesArmed":"false",
 	"symbol_stage":{
 		"element_${__3}":{
 			"timelineColor2":"0x1aa38f",
@@ -184,11 +184,11 @@
 			"animationEnabled":"true"}},
 	"TransitionIdCounter":"99",
 	"CompZoomFactor":"100",
-	"StageZoomFactor":"50",
-	"pixelsPerMs":"0.14112131289207",
+	"StageZoomFactor":"10",
+	"pixelsPerMs":"0.049205959244071",
 	"usedBOM":"false",
 	"PreloadAudio":"auto",
-	"stage-Default Timeline_mark_ms":"4500",
+	"stage-Default Timeline_mark_ms":"-1",
 	"nextElementColorIndex":"3",
 	"stage-Default Timeline_playhead_ms":"7000",
 	"pref__general__GenerateSmoothTransitions":"true",
